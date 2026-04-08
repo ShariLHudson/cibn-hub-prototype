@@ -1,0 +1,22 @@
+body {
+  font-family: "Segoe UI", system-ui, sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+  background-color: #f9fafb;
+  margin: 0;
+}
+
+.section-title {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.menu-text {
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+.menu-item {
+  margin-bottom: 10px;
+}
